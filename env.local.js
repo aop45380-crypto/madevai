@@ -1,0 +1,4 @@
+export const config = {
+  SUPABASE_URL: "https://erjthnamjcwxvywjfuhf.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVyanRobmFtamN3eHZ5d2pmdWhmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM1NjI1NjMsImV4cCI6MjA3OTEzODU2M30.hlCWJb5UM7drWvxeNrgGcJZbSzoyvKYUOaLG4cXzQbo"
+};
